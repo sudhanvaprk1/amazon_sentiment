@@ -1,0 +1,14 @@
+---
+experiment_name: donors_choose
+data_path: /Users/sudhanvakulkarni/Documents/amazon_sentiment/data
+model_path: /Users/sudhanvakulkarni/Documents/amazon_sentiment/artifacts
+preprocess_data: False
+engineer_features: False
+modelling:
+  tune_flag: False
+  model_name: v1
+  optimal_learning_rate: 0.3
+  optimal_gamma:  0.0
+
+
+  

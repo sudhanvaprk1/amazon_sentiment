@@ -1,0 +1,19 @@
+artifact_path: donors_choose_v1
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.15
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.2.0
+mlflow_version: 2.1.0
+model_uuid: c7e66a3aebb44456b5f0823d927b4a03
+run_id: 89ea8545343b4618b6ad6cae8b8e2427
+utc_time_created: '2022-12-25 06:22:29.828858'
