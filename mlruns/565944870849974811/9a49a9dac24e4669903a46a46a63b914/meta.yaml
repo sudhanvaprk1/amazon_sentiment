@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sudhanvakulkarni/Documents/amazon_sentiment/mlruns/565944870849974811/9a49a9dac24e4669903a46a46a63b914/artifacts
+end_time: 1671947915203
+entry_point_name: ''
+experiment_id: '565944870849974811'
+lifecycle_stage: active
+run_id: 9a49a9dac24e4669903a46a46a63b914
+run_name: online
+run_uuid: 9a49a9dac24e4669903a46a46a63b914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1671946735776
+status: 3
+tags: []
+user_id: sudhanvakulkarni
